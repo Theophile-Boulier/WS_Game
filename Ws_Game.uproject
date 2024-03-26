@@ -38,6 +38,10 @@
 		{
 			"Name": "PCGGeometryScriptInterop",
 			"Enabled": true
+		},
+		{
+			"Name": "MovieRenderPipeline",
+			"Enabled": true
 		}
 	]
 }
